@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="303" viewBox="-10 -10 632 303" xmlns:v="https://vecta.io/nano"><style><![CDATA[
+    .B{pointer-events:none}
+    .C{stroke-miterlimit:10}
+    .D{fill:#000}
+    .E{font-family:Helvetica}
+    .F{text-anchor:middle}
+    .G{font-size:24px}
+    .H{stroke-width:2}
+    .I{stroke:#000}
+    .J{stroke-dasharray:2 6}
+    .K{font-size:20px}
+    .L{stroke:gray}
+    .M{fill:none}
+    ]]></style>
+<text x="600.5" y="241.5" class="D E F G">δ Y</text>
+
+<g  class="H L">
+    <path d="M41 300V60"/>
+    <path d="M1 260h320"/>
+</g>
+
+<g>
+    <path d="M41 260l155-116" class="I"/>
+    <path d="M200 140l-3 7-1-4-3-2z" class="M I" />
+    <text x="135" y="210" class="D E F K">X</text>
+</g>
+
+<g>
+    <path d="M40 260l114-148"  class="I"/>
+    <path d="M158 108l-3 8-1-4-4-2z" class="M I" />
+    <text x="110" y="130" class="D E F K">X+δX</text>
+</g>
+
+<g>
+    <path d="M201 140l-35-35" class="I"/>
+    <path d="M162 101l8 2-4 1-2 4z" class="M I"/>
+</g>
+
+<g>
+    <path d="M41 270h160" class="H J I" />
+    <text x="190" y="295" class="D E F G">X₁</text>
+    <path d="M205 260V140" fill="none" class="B C H I J"/>
+    <text x="225" y="175" class="D E F G">X₂</text>
+</g>
+<g>
+    <path d="M205 130v-40" class="B C H J I"/>
+    <text x="170" y="165" class="D E F K">δX₁</text>
+    <path d="M150 140l35 1" class="B C H J I"/>
+    <text x="230" y="120" class="D E F K">δX₂</text>
+</g>
+
+<g fill="none" class="C B">
+    <g class="H L">
+        <path d="M421 260h200"/>
+        <path d="M461 280v-40"/>
+    </g>
+    <g class="I">
+        <path d="M551 260h14" />
+        <path d="M570 260l-7 4 2-4-2-4zM461 260h84" />
+        <path d="M550 260l-7 4 2-4-2-4zM171 90q70-60 200-55 130 5 188 197"/>
+        <path d="M561 239l-6-6 8-2z"/>
+    </g>
+</g>
+    <path d="M281.28 1.12l152.3-2.09 5.46 1.93.07 9.54 1.57 52.62-2.47 2.74-6.43 3.75-156.05.3-.76-3.38-2.33-7.42.11-49.29-.95-7.59 8.82-1.81" fill="#f1f5f0" class="B"/>
+    <path d="M281.5 0h149m-149 0h149m0 0c7.3.06 8.62 4.76 10.5 10.5M430.5 0c8.85-2.03 8.51 5.52 10.5 10.5m0 0c.22 9.48-1.55 21.79 0 49m0-49c-.56 12.07-.12 24.77 0 49m0 0c1.33 5.62-4.43 8.61-10.5 10.5M441 59.5c.69 6.07-3.5 10.71-10.5 10.5m0 0c-43.91 1.12-87.77.95-149 0m149 0h-149m0 0c-7.17-.98-11.54-4.02-10.5-10.5M281.5 70c-6.41-2.08-10.02-1.44-10.5-10.5m0 0c1.48-18.63-1.06-31.88 0-49m0 49c-.02-17.34.56-35.1 0-49m0 0c.98-7.7 2.98-10.47 10.5-10.5M271 10.5c-.78-8.42 5.22-11.41 10.5-10.5" fill="none" stroke-linejoin="round" stroke-linecap="round" class="B C I"/>
+    <text x="355" y="28" font-size="12" class="D E F K">f : x → y</text>
+    <text x="355" y="58" font-size="12" class="D E F K"> x ∈ ℝ² ,   Y ∈ ℝ</text>
+    <text x="541" y="292" class="D E F G">Y</text>
+    <text x="491" y="42" class="D E F G">Y+δY</text>
+    <text x="201" y="42" class="D E F G">X+δX</text>
+    
+</svg>

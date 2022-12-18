@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="270" viewBox="0 0 550 270" xmlns:v="https://vecta.io/nano">
+    <style>
+        <![CDATA[
+            .B{pointer-events:none; fill: #d0d8da}
+            .C{font-family:Helvetica}
+            .D{text-anchor:middle}
+            .E{stroke-width:1.5}
+            .F{stroke:#414241}
+            .G{fill:none}
+            .H{fill:#424141}
+            .I{font-size:12px}
+            .J{font-size:15px}
+            .K{stroke-miterlimit:10}
+            .L{fill:#2e2e2e}
+            .P{font-size: 2em}]]>
+    </style>
+
+    <g>
+        <path d="M289 45v56" class="E F K B" />
+        <path d="M289 107.76l-4-8 4 2 4-2z" class="G E F K B"/>
+        <text x="288.5" y="40" class="C D J L">b</text>
+    </g>
+    <g>
+        <circle cx="130" cy="45" r="15"  class="B E F"/>
+        <text x="129.5" y="48.5" class="C D H I">xʲ₁</text>
+        <text x="188" y="65" class="C D H J">W₁</text>  
+        <path d="M145 45l108.85 72.16" class="E F K B"/>
+        <path d="M258.85 120.48l-8.88-1.09 3.88-2.23.54-4.43z" class="G E F K B"/>
+    </g>
+    <g>
+        <circle cx="130" cy="95" fill="#fff" r="15" class="B E F"/>
+        <text x="129.5" y="98.5" class="C D H I">xʲ₂</text>
+        <path d="M145 95l100.28 37" class="E F K B"/>
+        <path d="M250.9 134.26l-8.89.97 3.27-3.05-.49-4.45z" class="G E F K B"/>    
+        <text x="188" y="105" class="C D H J">W₂</text>
+    </g>    
+    <g>
+        <circle cx="130" cy="135" r="15" class="B E F"/>
+        <text x="129.5" y="138.5" class="C D H I">xʲ₃</text>
+        <text x="188" y="135" class="C D H J">W₃</text>
+        <path d="M145 135l95.85 13.82" class="E F K B"/>
+        <path d="M246.79 149.68l-8.49 2.82 2.55-3.68-1.41-4.24z" class="G E F K B" />
+    </g>
+    <g>
+        <circle cx="130" cy="245" r="15" class="B E F"/>
+        <text x="129.5" y="248.5" class="C D H I">xʲₙ</text>
+        <text x="188" y="212" class="C D H J">Wₙ</text>
+        <path d="M145 245l108.58-62.6" class="E F K B" />
+        <path d="M258.78 179.4l-4.93 7.46-.27-4.46-3.73-2.47z" class="G E F K B"/>
+    </g>
+    
+    
+    <g>
+        <circle cx="289" cy="150" r="40" class="B E F"/>
+        <text x="288.5" y="153.5" class="C D H P" >&#8721;</text>
+        <text x="410" y="154.5" class="C D L P">ŷʲ</text>
+        <path d="M329 150h57.76" class="G E F K" />
+        <path d="M392.76 150l-8 4 2-4-2-4z" class="G E F K" />
+    </g>
+    
+    <g class="E F G K B">
+        <path d="M105 30H80v240h25" />
+        <path d="M55 150h25"/>
+    </g>
+    <text x="29.5" y="153.5" class="C D L P">xʲ</text>
+    <path d="M125 220v-60" stroke="#2e2e2e" stroke-dasharray="2 6" stroke-width="3" class="B G K"/>
+
+    <g>
+        <text x="350" y="260" class="C D L P">xʲ ∈ ℝⁿ , ŷʲ ∈ ℝ </text>
+    </g>
+        
+</svg>
